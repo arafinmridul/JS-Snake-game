@@ -5,7 +5,7 @@
 }
 
 .body {
-  background-color: #323248;
+  background-color: #0f0f0f;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -33,7 +33,7 @@
 }
 
 #board {
-  background: linear-gradient(rgb(72 68 98), rgb(63 60 86));
+  background: linear-gradient(rgb(21 21 21), rgb(20 20 23));
   width: 90vmin;
   height: 92vmin;
   border: 1px solid white;
